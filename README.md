@@ -2,6 +2,7 @@
 <blockquote> In this project, I was working in Wrangling Data Project which is Analyzing “WE RATE DOGS Account tweets”, this project was awesome and very powerful for practice what I learn during this course, without more talking let dig into the details of it.
   </blockquote>
 For any wrangling project we work in 3 main steps to get the cleaned data and in step no. 4 we analyze it, the three steps are:
+
 1. Gathering Data.
 2. Assessing Data.
 3. Cleaning Data.
